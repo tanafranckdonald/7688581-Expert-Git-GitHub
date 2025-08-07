@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Pré-requis modifié
+RAS
 
 ```
 
@@ -59,3 +59,5 @@ Merci de lire les fichiers :
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+
+## Comment corrigez l’historique du projet au fil de vos développements ?
